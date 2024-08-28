@@ -35,7 +35,7 @@ The project successfully developed a model that predicts fraud with high accurac
 ## How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/madalin312/credit_default_prediction
     ```
 2. **Install Dependencies**:
     - Ensure you have Python and the necessary libraries installed
